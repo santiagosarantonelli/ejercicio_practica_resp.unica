@@ -1,1 +1,1 @@
-# ejercicio_practica_resp.unica
+# Rjercicio de practica, concepto SOLID, responsabilidad unica.
