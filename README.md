@@ -1,1 +1,1 @@
-# Rjercicio de practica, concepto SOLID, responsabilidad unica.
+# Ejercicio de practica, concepto SOLID, responsabilidad unica.
